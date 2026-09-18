@@ -1,0 +1,267 @@
+{
+  "id": "5-1-introduction-to-management",
+  "title": "5.1 Introduction to Management",
+  "subtitle": "Fundamentals of Management — Definitions, Nature, Science vs Art, Scope & Profession",
+  "questions": [
+    {
+      "q": "Who defined management as \"the development of people and not the direction of things\"?",
+      "options": ["Lawrence A Appley", "Joseph Massie", "George R Terry", "Henry Fayol"],
+      "answer": 0
+    },
+    {
+      "q": "According to Joseph Massie, management is the process by which a co-operative group directs action towards:",
+      "options": ["Individual targets", "Common goals", "Shareholder profits", "Market competition"],
+      "answer": 1
+    },
+    {
+      "q": "George R Terry described management as a distinct process consisting of planning, organising, actuating and:",
+      "options": ["Delegating", "Budgeting", "Controlling", "Recruiting"],
+      "answer": 2
+    },
+    {
+      "q": "Henry Fayol said, \"To manage is to forecast and to plan, to organise, to command, to co-ordinate and to...\"",
+      "options": ["communicate", "control", "calculate", "compete"],
+      "answer": 1
+    },
+    {
+      "q": "Peter F Drucker called management a multi-purpose organ that manages a business, manages managers, and manages:",
+      "options": ["capital and credit", "market and money", "worker and work", "land and labour"],
+      "answer": 2
+    },
+    {
+      "q": "Koontz and O'Donnell defined management as the creation and maintenance of an internal environment for the attainment of:",
+      "options": ["personal career growth", "group goals", "shareholder wealth", "market expansion"],
+      "answer": 1
+    },
+    {
+      "q": "According to Newman, Summer and Warren, a manager is one who gets things done by working with people and:",
+      "options": ["other resources", "machines only", "government policy", "competitors"],
+      "answer": 0
+    },
+    {
+      "q": "Kimball and Kimball stated that the group of officials in primary control of an enterprise is referred to as:",
+      "options": ["ownership", "shareholders", "management", "board of trustees"],
+      "answer": 2
+    },
+    {
+      "q": "Who said, \"The conventional definition of management is getting work done through people, but real management is developing people through work\"?",
+      "options": ["Agha Hasan Abedi", "Peter F Drucker", "Henry Fayol", "Joseph Massie"],
+      "answer": 0
+    },
+    {
+      "q": "Out of the four factors of production, which one does the chapter describe as the organising skill, administrative ability and enterprising initiative of management?",
+      "options": ["Land", "Labour", "Capital", "Entrepreneurship"],
+      "answer": 3
+    },
+    {
+      "q": "Which feature of management refers to a manager's primary task of securing productive performance through planning, direction and control?",
+      "options": ["Result orientation", "Humane approach", "Process centric", "Universal activity"],
+      "answer": 0
+    },
+    {
+      "q": "According to Koontz and O'Donnell, management is the art of getting things done through people in:",
+      "options": ["informal social clubs", "formally organised groups", "government departments only", "family businesses only"],
+      "answer": 1
+    },
+    {
+      "q": "Which feature of management states that it continues as a process until the objectives set by administration are actually achieved?",
+      "options": ["Result orientation", "Process centric", "Goal oriented", "Dynamic activity"],
+      "answer": 1
+    },
+    {
+      "q": "The feature stating that management applies to political, social, religious and educational institutions, not just business, is called:",
+      "options": ["Universal activity", "Group activity", "System of authority", "Multidisciplinary"],
+      "answer": 0
+    },
+    {
+      "q": "According to the text, management is described as an art because:",
+      "options": [
+        "It requires group efforts",
+        "There are definite principles of management",
+        "It involves decision-making",
+        "It has an authoritarian set-up"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to the text, management is described as a science because:",
+      "options": [
+        "It has an authoritarian set-up",
+        "It draws from multiple disciplines",
+        "By applying its principles, predetermined objectives can be achieved",
+        "It requires personal skill"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which feature describes management as being concerned with group efforts rather than individual efforts?",
+      "options": ["Management is a group activity", "Result orientation", "Levels of management", "Goal oriented"],
+      "answer": 0
+    },
+    {
+      "q": "Which feature describes management as having an authoritarian set-up with standard rules and procedures for subordinates?",
+      "options": ["Management involves decision-making", "Management implies good leadership", "Management is a system of authority", "Management is dynamic activity"],
+      "answer": 2
+    },
+    {
+      "q": "\"Management implies making decisions regarding the organisation and operation of business in its different dimensions\" describes which feature?",
+      "options": ["Management involves decision-making", "Management is intangible", "Levels of management", "Multidisciplinary"],
+      "answer": 0
+    },
+    {
+      "q": "According to R C Davis, management is the function of:",
+      "options": ["financial control only", "executive leadership everywhere", "production planning only", "marketing strategy only"],
+      "answer": 1
+    },
+    {
+      "q": "Which feature states that the principles of management are dynamic, not static, and must adapt to social changes?",
+      "options": ["Process centric", "Goal oriented", "Management is dynamic activity", "Universal activity"],
+      "answer": 2
+    },
+    {
+      "q": "Management drawing ideas and concepts from economics, statistics, mathematics, psychology, sociology and anthropology makes it:",
+      "options": ["Multidisciplinary", "Intangible", "Goal-oriented", "A system of authority"],
+      "answer": 0
+    },
+    {
+      "q": "Management striving to achieve predetermined targets with available resources describes which feature?",
+      "options": ["Result orientation", "Levels of management", "Process centric", "Goal oriented"],
+      "answer": 3
+    },
+    {
+      "q": "The hierarchy of management observed as top level, mid level and lower level is referred to as:",
+      "options": ["System of authority", "Levels of management", "Class or elite", "Universal activity"],
+      "answer": 1
+    },
+    {
+      "q": "According to the chapter, which statement about ownership and management is correct?",
+      "options": [
+        "Managers must always be the owners of the enterprise",
+        "Owners can never act as managers",
+        "Managers need not be owners of the enterprise",
+        "Management is possible only if the owner manages"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "The feature \"Management is intangible\" means that:",
+      "options": [
+        "It has no value in an organisation",
+        "Its outputs cannot be witnessed with plain eyes but can be felt",
+        "It cannot be measured in any way",
+        "It does not affect profitability"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Which principle is cited as an example of a universally accepted scientific principle applicable to all organisations?",
+      "options": ["Principle of Division of Labour", "Principle of Unity of Command", "Principle of Span of Control", "Principle of Scalar Chain"],
+      "answer": 1
+    },
+    {
+      "q": "According to the chapter, management principles, like scientific principles, are developed through:",
+      "options": [
+        "experiments and practical experiences of managers",
+        "guesswork of consultants",
+        "government directives",
+        "random trial without observation"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which example is given to illustrate cause-and-effect relationship in management as a science?",
+      "options": [
+        "High wages always increase productivity",
+        "Larger organisations are always more profitable",
+        "Lack of parity between authority and responsibility leads to ineffectiveness",
+        "Centralisation always improves efficiency"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "The test of validity and predictability of management principles is illustrated by comparing:",
+      "options": [
+        "Two companies of different sizes",
+        "A person with a single boss versus one with two bosses",
+        "Two industries in different sectors",
+        "Two economies with different currencies"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "\"A manager can never be successful just by obtaining a degree or diploma in management; he must also know how to apply principles in real situations\" illustrates which feature of management as an art?",
+      "options": ["Personal skill", "Creativity", "Practical knowledge", "Perfection through practice"],
+      "answer": 2
+    },
+    {
+      "q": "The text cites Aditya Birla and Rahul Bajaj as examples to illustrate which feature of management as an art?",
+      "options": ["Personal skill", "Creativity", "Goal-oriented", "Practical knowledge"],
+      "answer": 0
+    },
+    {
+      "q": "\"It tries to produce sweet music by combining chords in an efficient manner\" is used to describe which feature of management as an art?",
+      "options": ["Personal skill", "Perfection through practice", "Creativity", "Goal-oriented"],
+      "answer": 2
+    },
+    {
+      "q": "The idea that \"managers learn through trial and error initially, but practice over the years makes them perfect\" reflects which feature of management as an art?",
+      "options": ["Perfection through practice", "Practical knowledge", "Creativity", "Goal-oriented"],
+      "answer": 0
+    },
+    {
+      "q": "Managers using resources like men, money, material, machinery and methods to help an organisation grow reflects which feature of management as an art?",
+      "options": ["Creativity", "Personal skill", "Practical knowledge", "Goal-oriented"],
+      "answer": 3
+    },
+    {
+      "q": "Herbison and Myres classified the scope of management under three broad groups. Which of the following is NOT one of them?",
+      "options": ["Economic Resource", "System of Authority", "Social Welfare", "Class or Elite"],
+      "answer": 2
+    },
+    {
+      "q": "Business Economics classifies the factors of production into land, labour, capital and:",
+      "options": ["technology", "entrepreneur", "information", "government"],
+      "answer": 1
+    },
+    {
+      "q": "Under the \"System of Authority\" aspect of scope, management formalises rules and procedures to ensure compliance by:",
+      "options": ["shareholders", "customers", "subordinates", "competitors"],
+      "answer": 2
+    },
+    {
+      "q": "Management being considered a distinct class with its own value system relates to which scope category?",
+      "options": ["Economic Resource", "System of Authority", "Class or Elite", "Universal Activity"],
+      "answer": 2
+    },
+    {
+      "q": "How many characteristics does the chapter list for a specialised activity to become a profession?",
+      "options": ["4", "5", "6", "8"],
+      "answer": 2
+    },
+    {
+      "q": "Which of the following is listed as a requirement for management to be considered a profession?",
+      "options": [
+        "Ownership of the enterprise by managers",
+        "Existence of a code of conduct among professional members",
+        "Guaranteed lifetime employment",
+        "Absence of any formal training"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "In the Keywords section, \"Administration\" is defined as a higher-level function concerned with the determination of:",
+      "options": ["wages", "policies", "advertising", "production schedules"],
+      "answer": 1
+    },
+    {
+      "q": "According to the Keywords section, a \"Code of conduct\" prescribes the norms of:",
+      "options": ["professional ethics for its members", "financial accounting", "legal taxation", "marketing strategy"],
+      "answer": 0
+    },
+    {
+      "q": "The chapter notes that management is the oldest of arts and the:",
+      "options": ["newest of professions", "youngest of sciences", "latest of technologies", "simplest of disciplines"],
+      "answer": 1
+    }
+  ]
+}
