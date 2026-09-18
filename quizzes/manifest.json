@@ -5,5 +5,12 @@
     "subject": "Fundamentals of Management",
     "file": "quizzes/5-1-introduction-to-management.json",
     "questionCount": 44
+  },
+  {
+    "id": "5-2-stewardship-and-agency-theory",
+    "title": "5.2 Stewardship Theory and Agency Theory of Management",
+    "subject": "Fundamentals of Management",
+    "file": "quizzes/5-2-stewardship-and-agency-theory.json",
+    "questionCount": 53
   }
 ]
