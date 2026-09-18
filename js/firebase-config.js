@@ -20,10 +20,10 @@
    ------------------------------------------------------------------ */
 
 window.FIREBASE_CONFIG = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyBXVfW0gnuVOxiUnrItDLSLSiL3wV1m92g",
+  authDomain: "quiz-hub-836f8.firebaseapp.com",
+  projectId: "quiz-hub-836f8",
+  storageBucket: "quiz-hub-836f8.firebasestorage.app",
+  messagingSenderId: "61979629946",
+  appId: "1:61979629946:web:20ed3344c4871c547e9ec3"
 };
