@@ -1,0 +1,537 @@
+{
+  "id": "5-2-stewardship-and-agency-theory",
+  "title": "5.2 Stewardship Theory and Agency Theory of Management",
+  "subtitle": "Fundamentals of Management — Stewardship Theory, Agency Theory, and their Differences",
+  "questions": [
+    {
+      "q": "Stewardship theory was developed by which authors in 1997?",
+      "options": [
+        "Blair and Shleifer",
+        "Jensen and Meckling",
+        "Alchian and Demsetz",
+        "Davis, Schoorman and Donaldson"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "According to Donaldson (1990), students of human behaviour identified motives beyond economic gain, including achievement, responsibility, recognition, altruism, belief and respect for:",
+      "options": [
+        "authority",
+        "wealth",
+        "hierarchy",
+        "competition"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Stewardship theory is primarily concerned with which relationship?",
+      "options": [
+        "Customer-supplier relationship",
+        "Creditor-debtor relationship",
+        "Employer-union relationship",
+        "Principal-manager relationship"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "According to Davis et al. (1997), which factors can influence whether managers and owners behave as stewards?",
+      "options": [
+        "Tax factors",
+        "Legal factors only",
+        "Market factors only",
+        "Structural factors"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Stewardship theory emphasizes that there is:",
+      "options": [
+        "No conflict of interest between managers and owners",
+        "A conflict only during economic downturns",
+        "An inherent, unavoidable conflict of interest between managers and owners",
+        "A conflict that can never be resolved"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "According to Donaldson and Davis (1991), stewardship theory views managers as:",
+      "options": [
+        "Opportunistic and greedy agents",
+        "Passive employees with no discretion",
+        "External auditors of the firm",
+        "Good stewards protecting and increasing owners' interests"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "According to Davis, Schoorman and Donaldson (1997), a manager acting as a steward tries to protect and maximize shareholder wealth through firm performance because doing so:",
+      "options": [
+        "Maximizes the steward's own utility function",
+        "Increases government subsidies",
+        "Avoids legal liability",
+        "Reduces the steward's workload"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Stewards in loosely coupled, heterogeneous organizations with competing stakeholders are motivated to make decisions that they perceive are:",
+      "options": [
+        "Mandated by regulators",
+        "Determined solely by shareholders",
+        "In their own individual financial interest",
+        "In the best interests of the group"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Regarding board structure, stewardship theory favours boards having a majority of:",
+      "options": [
+        "Creditor representatives",
+        "Government nominee directors",
+        "Non-specialist independent directors",
+        "Specialist executive directors"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "According to Donaldson & Davis (1991), stewardship theory is not an attempt to replace one form of determinism by another, but introduces a realistic note of:",
+      "options": [
+        "Contingency in the principal-agent choice model",
+        "Regulation in corporate law",
+        "Competition in the product market",
+        "Taxation in dividend policy"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Pearson and Marler (2010) argue that a leader's stewardship choice can motivate and facilitate what kind of behaviour from employees?",
+      "options": [
+        "Reciprocal stewardship behaviour",
+        "Resistance to change",
+        "Union formation",
+        "Increased absenteeism"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "According to Eddleston (2008), which leadership style can lead to a stewardship culture?",
+      "options": [
+        "Laissez-faire leadership",
+        "Autocratic leadership",
+        "Transformational leadership",
+        "Transactional leadership"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Under stewardship theory, stewards are described as:",
+      "options": [
+        "Minority shareholders only",
+        "Company executives and managers working for the shareholders",
+        "External regulators overseeing the company",
+        "Creditors monitoring loan covenants"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Stewardship theory stresses that employees or executives should act more autonomously so that:",
+      "options": [
+        "Competitor advantage is reduced",
+        "Government revenue is maximized",
+        "Shareholders' returns are maximized",
+        "Employee turnover increases"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Under stewardship theory, employees are expected to take ownership of their jobs and:",
+      "options": [
+        "Seek constant supervision",
+        "Work at them diligently",
+        "Avoid taking responsibility",
+        "Delegate them to subordinates"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "The phenomenon of increasing “divorce between ownership and management” arose largely due to the rise of:",
+      "options": [
+        "Sole proprietorships",
+        "Partnership firms",
+        "Cooperative societies",
+        "Joint stock companies"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "The term “Agency Theory” originated from the seminal papers of:",
+      "options": [
+        "Blair (1996) and Learmount (2002)",
+        "Alchian and Demsetz (1972) and Jensen and Meckling (1976)",
+        "Davis, Schoorman and Donaldson (1997)",
+        "Hart (1995) and Aghion and Bolton (1992)"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to Letza, Sun and Kirkbride (2004), the agency problem was effectively identified long ago by:",
+      "options": [
+        "John Maynard Keynes",
+        "David Ricardo",
+        "Karl Marx in Das Kapital",
+        "Adam Smith in The Wealth of Nations"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Adam Smith argued that company directors were not likely to be as careful with:",
+      "options": [
+        "Shareholder dividends",
+        "Other people's money as with their own",
+        "Their own money as with other people's",
+        "Government funds"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Who coined the phrase “Princip der Vorhand,” referring to the superior power of the agent due to knowledge, about 130 years before the text was written?",
+      "options": [
+        "Michael Jensen",
+        "Wilhelm Roscher",
+        "Adam Smith",
+        "William Meckling"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to Jensen and Meckling (1976), the essence of the agency problem is the separation of:",
+      "options": [
+        "Labour and capital",
+        "Management and finance",
+        "Ownership and taxation",
+        "Production and marketing"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to agency theory, shareholders are considered the principals because:",
+      "options": [
+        "They bear no financial risk",
+        "They always personally manage the company",
+        "They have no rights over corporate decisions",
+        "The corporation should be run in their interests even though they rely on others to run it"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "The owner-manager conflict arising from separation of ownership and management is referred to as:",
+      "options": [
+        "Type III Agency Problem",
+        "Type I Agency Problem",
+        "Residual Agency Problem",
+        "Type II Agency Problem"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "The conflict between majority and minority shareholders (e.g., family and non-family shareholders) is referred to as:",
+      "options": [
+        "Stewardship Conflict",
+        "Structural Conflict",
+        "Type I Agency Problem",
+        "Type II Agency Problem"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Which of the following is cited as a disadvantage of agency theory?",
+      "options": [
+        "The agent never faces information asymmetry",
+        "The agent may misuse power for pecuniary or other personal advantages",
+        "The agent always maximizes shareholder value",
+        "The principal always has more information than the agent"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "In the principal-agent relationship, the problem of information asymmetry arises because:",
+      "options": [
+        "The principal always knows more than the agent",
+        "The agent has better proximity to information than the principal",
+        "Both parties have identical access to information",
+        "Information asymmetry does not affect governance"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "To solve the agency problem, theorists suggested an increasing role for which body to ensure transparent and effective surveillance?",
+      "options": [
+        "Board of Directors",
+        "Government auditors",
+        "Credit rating agencies",
+        "Trade unions"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "According to Blair (1996), managers are the “agents” of a corporation's owners, and therefore must be:",
+      "options": [
+        "Exempted from all oversight",
+        "Given unrestricted control over all resources",
+        "Monitored through outsiders and independent arrangements",
+        "Allowed to self-regulate without checks"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "“Agency costs” as described in the chapter include the cost of managers misusing their position, surveillance/disciplining costs, bonding costs incurred by the agent, and:",
+      "options": [
+        "Increases in market share",
+        "Increases in shareholder dividends",
+        "Reductions in government taxation",
+        "Reductions in welfare from decisions inconsistent with the principal's welfare maximization"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Apart from the ownership-management relationship, agency costs also cover the relationship between:",
+      "options": [
+        "Only government and regulators",
+        "Company and creditor, employer and employee, company and customer",
+        "Only competitors within an industry",
+        "Only shareholders and the stock exchange"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to Shleifer and Vishny (1997), the agency problem is an important element of:",
+      "options": [
+        "The contractual view of the firm",
+        "The transaction-cost view of taxation",
+        "The resource-based view of the firm",
+        "The behavioural view of the firm"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "In the seminal paper by Jensen and Meckling (1976), agency costs were defined as the sum of monitoring expenditure by the principal, bonding expenditures by the agent, and:",
+      "options": [
+        "The tax liability of the firm",
+        "The market capitalization of the firm",
+        "The total revenue of the firm",
+        "The residual loss from divergence between the agent's decisions and those maximizing the principal's welfare"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "According to the chapter, whenever agency costs (in the Jensen/Meckling/Fama sense) can be calculated:",
+      "options": [
+        "The firm must be liquidated",
+        "There is no need for monitoring",
+        "Shareholders lose all rights",
+        "Monitoring becomes compulsory"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to Hart (1995), one reason principals and agents tend to write incomplete contracts is that:",
+      "options": [
+        "It is difficult for people to think ahead and plan for all contingencies",
+        "Courts refuse to enforce any contracts",
+        "Principals never negotiate with agents",
+        "Contracts are legally prohibited from being detailed"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "According to Aghion and Bolton (1992), contractual incompleteness and wealth constraints make it infeasible to:",
+      "options": [
+        "Determine shareholder identity",
+        "Establish any contract at all",
+        "Resolve all potential conflicts between agent and principal",
+        "Calculate corporate tax liability"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "According to Prof. Jensen (1994), which mechanism is considered the best place to deal with the agency problem?",
+      "options": [
+        "The regulatory authority",
+        "The judiciary",
+        "The efficient market",
+        "The trade union"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "According to Learmount (2002), an efficient market mechanism helps ensure that management:",
+      "options": [
+        "Avoids all forms of monitoring",
+        "Bears the costs of its own misconduct, creating incentives for self-control",
+        "Is completely free from any financial accountability",
+        "Receives unconditional shareholder support"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "According to Jensen & Meckling (1976), the joint stock company is known for popularizing the concept of:",
+      "options": [
+        "Separation of ownership and management",
+        "Employee stock ownership",
+        "Horizontal diversification",
+        "Vertical integration"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Neoclassical economists view the market as the only way to organize efficient contracting, seeing the firm as:",
+      "options": [
+        "An extension of government policy",
+        "A facilitator of constantly re-negotiated contracts",
+        "A charitable institution",
+        "A permanent, unchangeable legal entity"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "In terms of theoretical basis, Stewardship Theory draws from Organizational Psychology and Sociology, while Agency Theory draws from:",
+      "options": [
+        "Anthropology",
+        "Political Science",
+        "Economics",
+        "Law"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Under Stewardship Theory, the “Model of Man” is described as a self-actualizing man, whereas under Agency Theory it is described as:",
+      "options": [
+        "Social Man",
+        "Political Man",
+        "Economic Man",
+        "Rational Robot"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which theory describes managerial behaviour as “collective serving,” compared to the other theory's “self serving” behaviour?",
+      "options": [
+        "Both theories equally",
+        "Neither theory addresses behaviour",
+        "Agency Theory",
+        "Stewardship Theory"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Under Agency Theory, motivations are linked to lower-level needs such as physiological and security needs, whereas Stewardship Theory links motivations to:",
+      "options": [
+        "Only social status needs",
+        "No needs at all",
+        "Only monetary needs",
+        "Higher-level needs such as growth and self-actualization"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "The performance criterion under Stewardship Theory is Stakeholder Value Creation, while under Agency Theory it is:",
+      "options": [
+        "Government Revenue Creation",
+        "Creditor Value Creation",
+        "Shareholder Value Creation",
+        "Employee Value Creation"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "The owner-management relationship is characterized by “Goal alignment” under Stewardship Theory and by which term under Agency Theory?",
+      "options": [
+        "Goal Irrelevance",
+        "Goal Convergence",
+        "Goal Conflict",
+        "Goal Neutrality"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Stewardship Theory's objective is described as Collectivism, while Agency Theory's objective is described as:",
+      "options": [
+        "Socialism",
+        "Pluralism",
+        "Federalism",
+        "Individualism"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "In terms of cultural differences, Stewardship Theory is associated with Low Power Distance, while Agency Theory is associated with:",
+      "options": [
+        "High Power Distance",
+        "No Power Distance",
+        "Equal Power Distance",
+        "Negative Power Distance"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Stewardship Theory operates on a Long Term time frame, while Agency Theory typically operates on a:",
+      "options": [
+        "Medium Term time frame",
+        "Indefinite time frame",
+        "Short Term time frame",
+        "Multi-generational time frame"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Managerial motivation under Stewardship Theory is described as Intrinsic, while under Agency Theory it is described as:",
+      "options": [
+        "Extrinsic",
+        "Irrelevant",
+        "Passive",
+        "Collective"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "The general approach to uncertainty is “Trust” under Stewardship Theory and which term under Agency Theory?",
+      "options": [
+        "Overconfidence",
+        "Indifference",
+        "Neutrality",
+        "Distrust"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Managerial behaviour is characterized as “Acceptance” under Stewardship Theory and as which term under Agency Theory?",
+      "options": [
+        "Avoidance",
+        "Negotiation",
+        "Confrontation",
+        "Delegation"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Under Stewardship Theory, the board's representative design emphasizes “Advice as primary board role,” while under Agency Theory it emphasizes:",
+      "options": [
+        "Monitoring as primary board role",
+        "Advisory role only",
+        "No board role at all",
+        "Shareholder-only board composition"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Regarding the locus of decision making, Stewardship Theory allows large discretion for management decisions, while Agency Theory emphasizes:",
+      "options": [
+        "Complete managerial autonomy",
+        "Sharing of decision rights",
+        "Government-imposed decisions",
+        "No decision-making authority for management"
+      ],
+      "answer": 1
+    }
+  ]
+}
