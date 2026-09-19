@@ -12,5 +12,12 @@
     "subject": "Fundamentals of Management",
     "file": "quizzes/5-2-stewardship-and-agency-theory.json",
     "questionCount": 53
+  },
+  {
+    "id": "5-3-planning-organizing-staffing-leading",
+    "title": "5.3 Planning, Organizing, Staffing and Leading",
+    "subject": "Fundamentals of Management",
+    "file": "quizzes/5-3-planning-organizing-staffing-leading.json",
+    "questionCount": 109
   }
 ]
